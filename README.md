@@ -2,7 +2,7 @@
 
 ## ScreenShots
 ### Home Page
-![Untitled design (6)](https://github.com/kshitijbhatia/E-Commerce-App-UI/assets/108986570/dbfb4551-af6e-47e3-aa43-a96dd9135167)
+![Untitled design (6) (1)](https://github.com/kshitijbhatia/E-Commerce-App-UI/assets/108986570/92714225-fefd-4494-a4d0-1ba73df78a66)
 
 ## Description
 Created UI for an e-commerce app using flutter.
